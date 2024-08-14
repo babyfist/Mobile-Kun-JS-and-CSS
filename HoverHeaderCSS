@@ -1,0 +1,5 @@
+.boardlist {
+    position: sticky;
+    top: 2%;
+    background-color: yellow;
+}
